@@ -20,4 +20,4 @@
 > 8. Формирование отчёта о проделанной работе
 
 ### Результат работы:
-![Летающий дрон](https://github.com/Boblabled/University/IMRS/drone_fly.gif)
+![Летающий дрон](https://github.com/Boblabled/IMRS/blob/master/drone_fly.gif)
